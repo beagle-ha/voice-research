@@ -9,3 +9,7 @@
 - Topic: Hodogaya Station livability
 - Action: Collection of 10 raw human-authored reviews from Sumaity.
 - Status: Completed.
+
+- Topic: Higashi-Totsuka livability
+- Action: Collection of 10 additional raw human-authored reviews from Sumaity (Pages 3-4).
+- Status: Completed.

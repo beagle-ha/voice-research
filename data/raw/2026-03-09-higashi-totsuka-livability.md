@@ -144,10 +144,6 @@
 5
 緑が多く、公園も多い。公立学校のレベルも高く、小中などは大変落ち着いた雰囲気で、転任してくる教師が驚くと聞いた。越境して来る子も多い。
 
-おすすめスポット
-大池公園
-旭区だけど、車でだととても近い。自然がいっぱいで、子育てにもいい。桜の季節などは見事。バーベキューも出来る。
-
 ### Capture notes
 - Notes on education level and regional traffic.
 
@@ -179,10 +175,6 @@
 4
 近くの中学校は落ち着いた中学校だと近所に評判。駅にもヤンキーみたいな人はあまり見ないし落ち着いた地域だと思う。ただし環２をたまに夜中走る暴走族はブォンブォンうるさいので環２沿いに住むのであれば少し覚悟しておいた方がいいかもしれない。
 
-おすすめスポット
-西口周辺
-おそらくここ数年だと思うけれど、冬季のイルミネーションの力の入れ方がスゴい。チカチカ点滅したり、電飾の数も東口と桁違い。
-
 ### Capture notes
 - Mentions lack of rapid train stops.
 
@@ -210,16 +202,8 @@
 悪いところ 今でも十分ではあるが、もっと色んな飲食店が入って欲しい。
 基本的にチェーン店しかなく、よくある商店街とかがないため。
 
-医療
-5
-戸塚記念病院が駅のすぐ隣にあり、病院にはこと欠かさない。救急車もあるため緊急時時にも対応が可能な病院でもある。
-
-おすすめスポット
-アイス工房マーリア
-東戸塚に牧場をやっている方がやってるアイス工房で、非常に美味しい
-
 ### Capture notes
-- Mention of a local specialty (ice cream shop).
+- Chain restaurant density issue.
 
 ---
 
@@ -279,10 +263,6 @@
 悪いところ アパートの家賃が、全般的に高かったです。 近くに豆腐やさんが無かったのは痛かったです。
 住んでいたところは良かったのですが、坂道が多くベビーカーでは大変でした。
 
-買い物
-5
-駅に直結したショッピングモールがいい。ユニクロやアカチャホンポでもポイントが貯まり、そごうのポイントカードが活躍してました。
-
 ### Capture notes
 - Specific mention of childcare experience and slopes.
 
@@ -309,10 +289,6 @@
 ・住んだ当初は、東戸塚の駅前はただの空き地でしたが、その後タワーマンションが次々と建設され現在では５棟あります。そのような都会をイメージする建物とは対照的に果樹園がすぐ近くあり、おいしい梨や葡萄を買うことも梨狩りや葡萄狩りもできます。
 ・お店も次々と増え、日常生活では横浜等へ出かける必要もありません。東戸塚で見つけられないものがあっても横浜へいくのも２駅なので気軽に出かけることができます。 ・住んでいる人が上品に思えます。
 悪いところ 横須賀線の本数が私鉄とくらべるとそれほど多くないので、タイミングが悪いと少し待たなければならないこと。
-
-車の便利さ
-4
-東戸塚の駅からすぐ近くのところに横浜新道という有料道路の入り口があります。そこから横浜やみなとみらい方面へも保土ヶ谷バイパスに入れば東名へも簡単にいくことができます。時間帯によっては混みますが。
 
 ### Capture notes
 - Mentions fruit orchards near the station.
@@ -364,3 +340,288 @@
 
 ### Capture notes
 - Transport convenience.
+
+---
+
+## Entry: HT-20260309-012
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T13:00:00Z
+- Access date: 2026-03-09
+- Source URL: https://realestate.yahoo.co.jp/new/mansion/dtl/00155686/review/
+- Normalized source URL: https://realestate.yahoo.co.jp/new/mansion/dtl/00155686/review/
+- Source title: シエリアシティ横浜東戸塚の口コミ・購入者の声（レビュー）・評価 - Yahoo!不動産
+- Platform: Yahoo!不動産
+- Author: 30代男性/夫婦・カップル
+- Published date: 2026-03-01
+- Stable source ID: ContractComment-20260301-1
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+生活環境/治安
+人が多すぎず少なすぎず、かつ治安が良さそうであり子供の教育も考えた際に、暮らしやすそうであったためです。
+
+### Capture notes
+- Recent buyer perspective.
+
+---
+
+## Entry: HT-20260309-013
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T13:05:00Z
+- Access date: 2026-03-09
+- Source URL: https://realestate.yahoo.co.jp/new/mansion/dtl/00155686/review/
+- Normalized source URL: https://realestate.yahoo.co.jp/new/mansion/dtl/00155686/review/
+- Source title: シエリアシティ横浜東戸塚の口コミ・購入者の声（レビュー）・評価 - Yahoo!不動産
+- Platform: Yahoo!不動産
+- Author: 30代男性/ファミリー
+- Published date: 2026-01-25
+- Stable source ID: ContractComment-20260125-1
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+予算/価格
+都内や、横浜駅の新築、中古マンションの価格が1億超えた中、価格が適正で、将来の資産価値も期待できたため無理の返済計画が立てられると判断したと
+
+買い物/交通の便
+駅から徒歩15分と無理のない距離で、周辺に商業施設が多く、日常の買い物や生活利便性が高いと感じたため
+
+### Capture notes
+- Comparative perspective against Tokyo.
+
+---
+
+## Entry: HT-20260309-014
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T13:10:00Z
+- Access date: 2026-03-09
+- Source URL: https://realestate.yahoo.co.jp/new/mansion/dtl/00155686/review/
+- Normalized source URL: https://realestate.yahoo.co.jp/new/mansion/dtl/00155686/review/
+- Source title: シエリアシティ横浜東戸塚の口コミ・購入者の声（レビュー）・評価 - Yahoo!不動産
+- Platform: Yahoo!不動産
+- Author: 40代男性/ファミリー
+- Published date: 2026-01-11
+- Stable source ID: ContractComment-20260111-1
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+買い物/交通の便
+資産価値の高い立地（高級住宅街）を条件に探しました。生活環境についても重視しており商業施設の多さは魅力でした。
+東京に出るのに交通の便が良く、駅周辺に百貨店やスーパー、飲食店が多数あり、生活環境に優れていると判断しました。
+
+### Capture notes
+- Perception of "high-class residential area".
+
+---
+
+## Entry: HT-20260309-015
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T13:15:00Z
+- Access date: 2026-03-09
+- Source URL: https://realestate.yahoo.co.jp/new/mansion/dtl/00155686/review/
+- Normalized source URL: https://realestate.yahoo.co.jp/new/mansion/dtl/00155686/review/
+- Source title: シエリアシティ横浜東戸塚の口コミ・購入者の声（レビュー）・評価 - Yahoo!不動産
+- Platform: Yahoo!不動産
+- Author: 20代以下男性/夫婦・カップル
+- Published date: 2025-12-21
+- Stable source ID: ContractComment-20251221-1
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+生活環境/治安
+スーパーが近くて買い物がしやすいところ。保育園や塾などが充実しており子育ての環境が整っているところ。
+予算/価格
+将来売却を考えているが、売値が想定を下回った場合でも払い切れる金額であった。また、周辺の中古マンション相場を見た際、売りで損が出る確率は低いと判断した。
+
+### Capture notes
+- Focus on asset value and childcare facilities.
+
+---
+
+## Entry: HT-20260309-016
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T14:00:00Z
+- Access date: 2026-03-09
+- Source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/?page=3
+- Normalized source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/
+- Source title: （3ページ目）東戸塚駅の住みやすさ - クチコミ・街レビュー（神奈川県横浜市戸塚区）【スマイティ】
+- Platform: スマイティ
+- Author: 60代～ 男性（既婚）
+- Published date: 2014-08-24
+- Stable source ID: No.36990
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+良いところ
+生活に便利。商業施設（西武百貨店、東急ストア、生協、オーロラモール、ダイエー等）が近くにある。また横須賀線、湘南新宿線に乗車すれば都内へ乗り換えなしで行ける。
+悪いところ
+不満な点は特にないが東海道線が停車すると交通の便がもっと良くなる。但し混雑度が増すと逆の意味で不便が増す可能性もあるのが不安。
+
+おすすめスポット
+旧東海道。
+東戸塚は保土ヶ谷から戸塚へ至る中間に位置し旧東海道が今も残っている。旧東海道の名残りが至るところにあり周囲は、緑も多く、のんびりした環境で散策を楽しむ事ができる。幻のナシと言われる横浜梨を生産する農園も散在し新鮮な果物で季節感を味わうこともできる。また天気が良ければ富士山の雄姿を拝めることもできる。
+
+### Capture notes
+- Senior resident (1996-2014). Mention of old Tokaido road and landscape.
+
+---
+
+## Entry: HT-20260309-017
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T14:05:00Z
+- Access date: 2026-03-09
+- Source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/?page=3
+- Normalized source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/
+- Source title: （3ページ目）東戸塚駅の住みやすさ - クチコミ・街レビュー（神奈川県横浜市戸塚区）【スマイティ】
+- Platform: スマイティ
+- Author: 60代～ 男性（未婚）
+- Published date: 2014-08-24
+- Stable source ID: No.36782
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+良いところ
+静かな住宅街で近くに横浜新道や首都高、保土ヶ谷バイパス、国道1号、16号等幹線道路が多く車でのアクセスが便利。
+悪いところ
+日常生活をするのに必要な店が徒歩圏にはコンビニが1軒あるのみで不便。どの駅に行くのもバスを利用しなければならない。駅からの終バスが早く不便。高台にあるので坂が多い。
+
+環境
+3
+大きな工場等も無い住宅街なのでまぁまぁ静かである。ただしすぐ近くを横浜新道が通っているので慣れないと夜は車の走行音が気になる。
+
+### Capture notes
+- Long-term resident since 1982. Senior single perspective. Issues with bus schedules and highway noise.
+
+---
+
+## Entry: HT-20260309-018
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T14:10:00Z
+- Access date: 2026-03-09
+- Source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/?page=4
+- Normalized source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/
+- Source title: （4ページ目）東戸塚駅の住みやすさ - クチコミ・街レビュー（神奈川県横浜市戸塚区）【スマイティ】
+- Platform: スマイティ
+- Author: 30代 女性（既婚）
+- Published date: 2014-04-16
+- Stable source ID: No.17833
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+良いところ 森に隣接する良い環境で子供が自然の中で遊べることがいいです。買い物や散歩にも行きやすく高速道路のインターにも近いので、移動にも便利です。
+悪いところ
+自然が多い為、虫が多いです。チェーン店が多く個性的なお店が少ないのが残念です。子供向けの文房具屋など雑貨屋さんがあまりないです。
+
+子育て・教育
+5
+子供が多いので情報交換が盛んで、教育熱心な親がまわりに多く、駅の近辺に学習塾が沢山あり習い事に行かせやすい環境です。
+
+### Capture notes
+- Note on "many insects" as a drawback of nature. Mentions educational enthusiasm.
+
+---
+
+## Entry: HT-20260309-019
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T14:15:00Z
+- Access date: 2026-03-09
+- Source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/?page=4
+- Normalized source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/
+- Source title: （4ページ目）東戸塚駅の住みやすさ - クチコミ・街レビュー（神奈川県横浜市戸塚区）【スマイティ】
+- Platform: スマイティ
+- Author: 50代 男性（既婚）
+- Published date: 2014-04-10
+- Stable source ID: No.15532
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+良いところ
+病院、学校、商業施設ともに充実しており、住環境はバツグンである。また、小さい子供をもつ世代も多く、子育てには最高の環境である。
+悪いところ 住民の数が多いわりに、電車の本数が少なく、快速も停車しない。また、都心からの距離に比べると、終電の時間が早い。
+
+子育て・教育
+5
+幼稚園や小学校が豊富にあり、また、子育て世代も多く居住しているので、最適です。公立小学校のクラスの半分くらいは中学受験をするので、受験を目指す方にもいいと思います。
+
+### Capture notes
+- Mention of high percentage of students taking middle school entrance exams.
+
+---
+
+## Entry: HT-20260309-020
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T14:20:00Z
+- Access date: 2026-03-09
+- Source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/?page=5
+- Normalized source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/
+- Source title: （5ページ目）東戸塚駅の住みやすさ - クチコミ・街レビュー（神奈川県横浜市戸塚区）【スマイティ】
+- Platform: スマイティ
+- Author: 20代 女性（未婚）
+- Published date: 2014-03-02
+- Stable source ID: No.2627
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+良いところ ・大きな公園が多い ・住宅地が多いので静か ・駅前は商業施設が集まっていて便利
+悪いところ ・坂道のアップダウンが多いので疲れる ・家の近くにお店がない ・住んでいる人が多いので電車が混む ・おしゃれなお店は無い
+
+災害
+1
+・困った時の避難所は、近くの小学校になっているが歩いて20分以上ところにある。人口も多いので、はたしてそれが良いのかはわからない。
+・坂が多いので雪が降った時は非常に危ない。
+
+### Capture notes
+- Native resident. Mention of disaster preparedness issues.
+
+---
+
+## Entry: HT-20260309-021
+- Topic: Higashi-Totsuka livability
+- Collected at: 2026-03-09T14:25:00Z
+- Access date: 2026-03-09
+- Source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/?page=5
+- Normalized source URL: https://sumaity.com/town/kanagawa/yokohama/totsuka_ku/higashitotsuka-eki/review/
+- Source title: （5ページ目）東戸塚駅の住みやすさ - クチコミ・街レビュー（神奈川県横浜市戸塚区）【スマイティ】
+- Platform: スマイティ
+- Author: 40代 男性（既婚）
+- Published date: 2014-01-09
+- Stable source ID: No.613
+- Content type: review
+- Language: Japanese
+- Duplicate check basis: stable id
+- Related source: none
+
+### Raw text
+良いところ
+駅から歩道橋が繋がっていてほとんどの種類の店が入っており値段が高いところばかりではなく安いところもあり重宝している、かと思えば牛を買っているところがありメーリアという学校給食にも出るアイスを打っている所があり自然と文化が共有している町
+悪いところ
+北口には店がまだまだ少ないゆえに20時以降になるとコンビニや牛丼屋さんのみが開いているのみで少し心細い。反対側は明るいのだが・・・その分女性も一人歩きなどは少し怖いかもしれない
+
+### Capture notes
+- Mention of "North Exit" (Kita-guchi) being sparse compared to the other side.

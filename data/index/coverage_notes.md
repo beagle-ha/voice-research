@@ -15,6 +15,13 @@
   - Issues: Early last buses, risk of isolation during train disruptions, noise from bosozoku.
 
 ## Hodogaya Station Livability
+- Sumaity: 27 detailed reviews collected (Teens to 60s+, wide demographic range).
+- Topics covered:
+  - Transportation (1-stop to Yokohama, Yokosuka Line/Shonan-Shinjuku Line convenience, extensive bus network vs traffic on Route 1, high availability of highway interchanges).
+  - Environment (Hills/slopes, significant greenery, quiet residential areas, historical post-town atmosphere/Tokaido sites).
+  - Facilities (Beans Hodogaya, Fujisuper, local shopping streets like Katabira and Matsubara, nearby parks like Hodogaya Park, Shimizu-ga-oka, and Children's Botanical Garden).
+  - Challenges (Steep hills making bicycle/walking difficult, lack of large restaurants/fast food/brand shops, noise and air quality near major roads).
+  - History & Culture (Remnants of Hodogaya-shuku, British Commonwealth War Cemetery, old school-community ties).
 - Sumaity: 20 detailed reviews collected (Teens to 60s+, Singles/Married).
 - Topics covered:
   - Transportation (1-stop to Yokohama, Yokosuka Line/Shonan-Shinjuku Line convenience, extensive bus network vs traffic on Route 1, high availability of highway interchanges).

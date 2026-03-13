@@ -1,14 +1,14 @@
 # Coverage Notes
 
 ## Higashi-Totsuka Livability
-- Sumaity: 22 detailed reviews collected (Singles, Families, Commuters, Long-term residents, retirees).
+- Sumaity: 33 detailed reviews collected (Singles, Families, Commuters, Long-term residents, retirees).
 - SUUMO: 2 representative comments collected.
 - Topics covered:
   - Shopping (West-side malls, OK store, prices, lack of local shops, variety of supermarkets like Seiyu/Daiei/Coop/Olympic).
   - Transportation (Yokosuka Line convenience vs lack of rapid stops, bus availability, traffic congestion, Route 1/Loop 2/Shindo access).
   - Childcare & Education (Safe parks, active parenting communities, high school levels, high rate of middle school entrance exams, density of cram schools).
-  - Environment (Significant slopes, greenery, remaining orchards/nature, noise from beltway/highway, Old Tokaido atmosphere, dairy farming/dairy products like "Mealy").
-  - Atmosphere (Modern t-mansion skyline vs old nature, "refined" resident profile, affluent demographics, community feel in detached housing areas).
+  - Environment (Significant slopes, greenery, remaining orchards/nature, noise from beltway/highway, Old Tokaido atmosphere, dairy farming/dairy products like "Maria", ranch smells).
+  - Atmosphere (Modern t-mansion skyline vs old nature, "refined" resident profile, affluent demographics, community feel in detached housing areas, strong community ties/festivals).
   - Neighborhoods: Hirado-cho (good community, traffic noise from Route 1).
   - Education: High interest in middle school entrance exams, many cram schools.
   - Nature: Presence of "Yokohama Pear" orchards and forest areas (e.g., Jidoyuenchi park, Upper Shinano forest).

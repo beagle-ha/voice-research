@@ -25,6 +25,9 @@
 - Status: Completed.
 
 ## 2026-03-13
+- Topic: Hodogaya Station livability
+- Action: Collection of 4 raw human-authored snippets from LIFULL HOME'S Machimusubi and SMUUL. Identified specific regional issues (Myojindai, Setogaya-cho) and demographic viewpoints (singles, families).
+- Status: Completed (Part 1). PR requested.
 - Topic: Higashi-Totsuka livability
 - Action: Collection of 3 raw human-authored reviews from Sumaity (page 5). Added perspectives on disaster preparedness, 24-hour pediatrics, and station north side characteristics.
 - Action: Secondary collection of 11 raw human-authored reviews from Sumaity (Pages 1-2). Added perspectives on ranch smells, community activities, and station congestion.

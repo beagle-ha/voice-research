@@ -32,6 +32,7 @@
   - Facilities (Beans Hodogaya, Fujisuper, local shopping streets like Katabira, lack of large restaurants/fast food/home centers in the immediate vicinity).
   - Childcare/Education (Safe parks, some schools with dedicated teachers, conducive environment for families).
   - Challenges (Steep hills making commuting difficult for non-drivers/elderly, congestion on Route 1, limited options for night-time dining).
+  - Neighborhood-specific: Myojindai (lack of gift shops), Setogaya-cho (private roads, slow urban development).
   - Unique spots: British Commonwealth War Cemetery (英連邦墓地), Gonta-zaka (権太坂).
 - LIFULL HOME'S Machimusubi: 6 short neighborhood-specific reviews collected (Hoshikawa, Setogaya-cho, Nishikubo-cho, Iwai-cho, Myojindai, Hodogaya-cho).
 - Topics expanded:
